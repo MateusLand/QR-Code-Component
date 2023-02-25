@@ -22,8 +22,8 @@ This is a simple QR code component, created as part of the Frontend Mentor reali
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qrcodecomponent-crlamFay1b)
+- Live Site URL: [Vercel](https://qr-code-component-three-pi.vercel.app)
 
 ### Built with
 
